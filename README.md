@@ -1,5 +1,3 @@
-# SKIN_DISEASE_PREDICTION
-
 # Skin Disease Prediction Using CNN
 
 This project is a machine learning application that predicts skin diseases from images using a Convolutional Neural Network (CNN). It utilizes the [HAM10000 dataset from Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=hmnist_8_8_RGB.csv), which contains over 10,000 dermatoscopic images of various skin lesions.
@@ -57,7 +55,7 @@ python main.py
 - Dense layers for classification
 - Softmax output layer for multi-class classification
 
-  ![Alt Text(https://github.com/PANDU6764/SKIN_DISEASE_PREDICTION/blob/ec9df513e977bc4cb3a8bdeeddc7d632d4006529/Accuracy_loss.png)
+  ![Alt Text](https://github.com/PANDU6764/SKIN_DISEASE_PREDICTION/blob/ec9df513e977bc4cb3a8bdeeddc7d632d4006529/Accuracy_loss.png)
 ## Contributing
 Feel free to fork the project, raise issues, or submit pull requests to improve the application.
 
