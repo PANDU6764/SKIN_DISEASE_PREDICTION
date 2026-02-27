@@ -10,7 +10,7 @@ The goal of this project is to automatically classify skin lesions into their re
 ## Dataset
 The HAM10000 dataset includes images labeled with the following skin lesion types:
 - Actinic Keratoses
-- Basal Cell Carcinoma
+- Basal Cell Carcinoma.
 - Benign Keratosis
 - Dermatofibroma
 - Melanocytic Nevi
